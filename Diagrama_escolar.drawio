@@ -151,6 +151,129 @@
             <mxPoint x="470" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-38" value="ESCOLA" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-39" value="Nome" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="545" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-40" value="CodEscola" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="110" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7PINaodsBSt505YF2r87-40" target="7PINaodsBSt505YF2r87-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="520" as="sourcePoint" />
+            <mxPoint x="300" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7PINaodsBSt505YF2r87-39" target="7PINaodsBSt505YF2r87-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="430" as="sourcePoint" />
+            <mxPoint x="470" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-43" value="Telefone" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7PINaodsBSt505YF2r87-43" target="7PINaodsBSt505YF2r87-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="430" as="sourcePoint" />
+            <mxPoint x="470" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-47" value="Morada" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-48" value="CodPostal" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="476" y="530" width="62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7PINaodsBSt505YF2r87-47" target="7PINaodsBSt505YF2r87-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353" y="550" as="sourcePoint" />
+            <mxPoint x="513" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-50" value="Localidade" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="543" y="525" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7PINaodsBSt505YF2r87-47" target="7PINaodsBSt505YF2r87-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353" y="550" as="sourcePoint" />
+            <mxPoint x="513" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-52" value="Pais" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="583" y="490" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7PINaodsBSt505YF2r87-47" target="7PINaodsBSt505YF2r87-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353" y="550" as="sourcePoint" />
+            <mxPoint x="513" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-54" value="Num" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="583" y="450" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7PINaodsBSt505YF2r87-47" target="7PINaodsBSt505YF2r87-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353" y="550" as="sourcePoint" />
+            <mxPoint x="513" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-56" value="Rua" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="543" y="430" width="46" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7PINaodsBSt505YF2r87-47" target="7PINaodsBSt505YF2r87-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353" y="550" as="sourcePoint" />
+            <mxPoint x="513" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-58" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7PINaodsBSt505YF2r87-38" target="7PINaodsBSt505YF2r87-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="360" as="sourcePoint" />
+            <mxPoint x="500" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-59" value="CURSO" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-60" value="CodCurso" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="110" y="670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7PINaodsBSt505YF2r87-60" target="7PINaodsBSt505YF2r87-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="570" as="sourcePoint" />
+            <mxPoint x="500" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-62" value="Nome" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="750" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7PINaodsBSt505YF2r87-59" target="7PINaodsBSt505YF2r87-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="570" as="sourcePoint" />
+            <mxPoint x="500" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-64" value="Disciplinas" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7PINaodsBSt505YF2r87-64" target="7PINaodsBSt505YF2r87-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="570" as="sourcePoint" />
+            <mxPoint x="500" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-66" value="Activo?" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7PINaodsBSt505YF2r87-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7PINaodsBSt505YF2r87-59" target="7PINaodsBSt505YF2r87-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="570" as="sourcePoint" />
+            <mxPoint x="500" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
